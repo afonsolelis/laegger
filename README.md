@@ -2,10 +2,15 @@
 
 Este é um desafio para a empresa Laegger. O objetivo do projeto é criar uma API que recebe uma lista de elementos e retorna a lista invertida.
 
+## Pré-requisitos
+
+- Ruby versão 2.7.2
+- Rails versão 6.1.4
+
 ## Como rodar o projeto
 
-1. Clone o repositório com `git clone <url do repositório>`.
-2. Navegue até o diretório do projeto com `cd <nome do projeto>`.
+1. Clone o repositório com `git clone [<url do repositório>](https://github.com/afonsolelis/laegger.git)`.
+2. Navegue até o diretório do projeto com `cd laegger`.
 3. Instale as dependências com `bundle install`.
 4. Inicie o servidor com `rails server`.
 5. Agora você pode acessar a API em `http://localhost:3000`.
