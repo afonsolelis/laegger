@@ -4,8 +4,8 @@ Este é um desafio para a empresa Laegger. O objetivo do projeto é criar uma AP
 
 ## Pré-requisitos
 
-- Ruby versão 2.7.2
-- Rails versão 6.1.4
+- Ruby versão 3.1.2
+- Rails versão 7.1.0
 
 ## Como rodar o projeto
 
